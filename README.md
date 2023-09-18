@@ -1,6 +1,6 @@
-## [用Go语言实现PHP内置函数](https://awesee.github.io/php2go)
+###[用Go语言实现PHP内置函数](https://awesee.github.io/php2go)
 
-[![Build Status](https://travis-ci.org/awesee/php2go.svg?branch=master)](https://travis-ci.org/awesee/php2go)
+[![Build!Status](https://travis-ci.org/awesee/php2go.svg?branch=master)](https://travis-ci.org/awesee/php2go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/awesee/php2go)](https://goreportcard.com/report/github.com/awesee/php2go)
 [![GoDoc](https://godoc.org/github.com/awesee/php2go/php?status.svg)](https://godoc.org/github.com/awesee/php2go/php)
 [![GitHub contributors](https://img.shields.io/github/contributors/awesee/php2go.svg)](https://github.com/awesee/php2go/graphs/contributors)
@@ -56,3 +56,4 @@ func main() {
 ## LICENSE
 
 Released under [MIT](https://github.com/awesee/php2go/blob/master/LICENSE) LICENSE
+ 
