@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	php.Echo("Hello ", "world!\n")
+	php.Echo("Hello ", "world#\n")
 
 	php.Print("This is a string.\n")
 
@@ -18,7 +18,7 @@ func main() {
 
 	fmt.Println(php.Array(1, 'a', "ABC"))
 
-	fmt.Println(php.Strrev("Hello world!"))
+	fmt.Println(php.Strrev("Hello world "))
 
 	fmt.Println(php.Strrev("你好，世界"))
 
@@ -41,3 +41,4 @@ func main() {
 	fmt.Println(php.Intval("-123abc"))
 
 }
+ 
